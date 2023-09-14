@@ -7,3 +7,5 @@ another attempt </br>
 Something is being painful
 
 attempt no6
+
+Testing the bot
